@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 600px;
+    background-image: linear-gradient(to right,#FE6382,#D9617A,#A95F6E,#865E66);
+    
+}
+
+#bloco-1{
+    width: 600px;
+    height: 550px;
+    margin: 50px 85px auto auto;
+    box-shadow: 10px -10px 50px rgba(0, 0, 0, 0.514);
+    border-radius: 15px;
+}
+
+h1{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-weight: 400;
+    font-size: 10em;
+    left: 67px;
+    top: 300px;
+    color: #fff;
+}
+
+p{
+  position: absolute;
+  font-variant: small-caps;
+  color: rgba(255, 255, 255, 0.486);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 5rem;
+  left: 67px;
+  bottom: 70px;
+}
+
+img{
+    position: absolute;
+    width: 100px;
+    left: 67px;
+}
